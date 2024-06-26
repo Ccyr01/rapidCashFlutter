@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882480311083",
+    "project_id": "rapidcashep-6149e",
+    "storage_bucket": "rapidcashep-6149e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882480311083:android:6ca01377cb50a86afd336e",
+        "android_client_info": {
+          "package_name": "com.mycompany.rapidcashep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrB-upmDtwN3ZLht-sI9KXr9BbXMToeFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
